@@ -10,7 +10,7 @@
 
 ### Admin control Page
 
-![Dashboard](./Image4.png)
+![Control page](./Image4.png)
 
 ### Rating Page
 
